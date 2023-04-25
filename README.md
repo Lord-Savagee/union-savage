@@ -5,7 +5,7 @@
 <h1 align="center">ʜɪ 👋, ɪ'ᴍ 𝗟𝗼𝗿𝗱 𝗦𝗮𝘃𝗮𝗴𝗲. ᴜsᴇʀɴᴀᴍᴇ- 𝗦𝗮𝘃𝗮𝗴𝗲2</h1>
 <h3 align="center">I am a noob coder. Learning javascript and Node js👀.</h3>
 
-- 𓆏𓅓 Name- **𝗟𝗼𝗿𝗱 𝗦𝗮𝘃𝗮𝗴𝗲 **
+- 𓆏𓅓 Name- **𝗟𝗼𝗿𝗱 𝗦𝗮𝘃𝗮𝗴𝗲 🕊️ **
 
 - 𖧷☦︎ Age- **17**
 
@@ -17,13 +17,13 @@
 
 </div>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0bayzsrvnvivnrnxg4te2b1vb&cover_image=true&theme=default)](https://github.com/Savagee2/Oum)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0bayzsrvnvivnrnxg4te2b1vb&cover_image=true&theme=default)](https://github.com/Lord-Savagee/Oum)
 
 
 
-<img align="right" alt="count" src="https://count.getloli.com/get/@:union-savage?theme=rule34">
+<img align="right" alt="count" src="https://count.getloli.com/get/@:Lord-Savagee?theme=rule34">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Toshiro223&label=Profile%20views&color=0e75b6&style=flat" alt="Toshiro223"> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lord-Savagee&label=Profile%20views&color=0e75b6&style=flat" alt="Lord-Savagee"> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Savagee2" alt="Savagee2" /></a> </p>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/ryxjvsN/tumblr-mayscv1i7-P1r7ycn6o1-500.gif" alt="tumblr-mayscv1i7-P1r7ycn6o1-500" border="0" /></a>
